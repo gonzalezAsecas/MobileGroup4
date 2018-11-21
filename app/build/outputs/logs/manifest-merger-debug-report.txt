@@ -1,0 +1,166 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\Anime y manga\Proyecto\PDMClientGroup4\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from G:\Anime y manga\Proyecto\PDMClientGroup4\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from G:\Anime y manga\Proyecto\PDMClientGroup4\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from G:\Anime y manga\Proyecto\PDMClientGroup4\app\src\main\AndroidManifest.xml:2:1-26:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\e3787d04278c861126cdcc84bef177b0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\fec49b1204aa73a8074d73a1b8f2d783\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\1f3fe63d1bdf3b2343669c15c7db6934\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\4ebe61dc82a9f989e94046269a1446c0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\d4bf592ee3d0e027f7924e28129f258c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\0c45d994adb2dc163e7cbdf412b21b1f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\54e257a8419b2f51c3798b588462af20\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\811d876dfab3140cc6cdcaa20acaa08c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\86069d8c41e7d49d1bca1138b1375180\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\479a3de11699645b26be79a69153c330\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\348917cef6871f1ce624fffa78914878\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\1805b7f3f973403571fdf9cdde52f4f5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\668e53fc9ee0181c81aced5c3388920a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\14c38b0d8f4efc7cc38fd351d9a5b110\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\9faf3bb978278ea9a4f9169f775ff9d1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\5e198c669bcae95e6dc6f50a1dade0c7\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\3abe848816d109b86a23bdbca7f79d55\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\3b544ad0e398dcd4a157005a6c24f02e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\fe8ffc1aafa335f885f2837a303627f1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\db793c3c4a9df195661beb76c968d7ce\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\4c9c266427a14e29260bc58f3fb16844\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\7f337fbd20fcee06c66363d4300079d1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\e9f6af25007b3458f7d8b798859ceeef\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\301490994237b2234172288270150161\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\06f1daa7517efafda9a901fa505e2e03\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c115a40ac78a04191b1a2bdc6621fcf9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\150a05fcac81608d7cf899422fc999c9\AndroidManifest.xml:17:1-22:12
+INJECTED from G:\Anime y manga\Proyecto\PDMClientGroup4\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from G:\Anime y manga\Proyecto\PDMClientGroup4\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from G:\Anime y manga\Proyecto\PDMClientGroup4\app\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from G:\Anime y manga\Proyecto\PDMClientGroup4\app\src\main\AndroidManifest.xml:3:5-50
+		INJECTED from G:\Anime y manga\Proyecto\PDMClientGroup4\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Anime y manga\Proyecto\PDMClientGroup4\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from G:\Anime y manga\Proyecto\PDMClientGroup4\app\src\main\AndroidManifest.xml
+		ADDED from G:\Anime y manga\Proyecto\PDMClientGroup4\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from G:\Anime y manga\Proyecto\PDMClientGroup4\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from G:\Anime y manga\Proyecto\PDMClientGroup4\app\src\main\AndroidManifest.xml
+		ADDED from G:\Anime y manga\Proyecto\PDMClientGroup4\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from G:\Anime y manga\Proyecto\PDMClientGroup4\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\Anime y manga\Proyecto\PDMClientGroup4\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from G:\Anime y manga\Proyecto\PDMClientGroup4\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from G:\Anime y manga\Proyecto\PDMClientGroup4\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from G:\Anime y manga\Proyecto\PDMClientGroup4\app\src\main\AndroidManifest.xml:5:5-24:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\fec49b1204aa73a8074d73a1b8f2d783\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\fec49b1204aa73a8074d73a1b8f2d783\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\5e198c669bcae95e6dc6f50a1dade0c7\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\5e198c669bcae95e6dc6f50a1dade0c7\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\3abe848816d109b86a23bdbca7f79d55\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\3abe848816d109b86a23bdbca7f79d55\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\5e198c669bcae95e6dc6f50a1dade0c7\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from G:\Anime y manga\Proyecto\PDMClientGroup4\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from G:\Anime y manga\Proyecto\PDMClientGroup4\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from G:\Anime y manga\Proyecto\PDMClientGroup4\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from G:\Anime y manga\Proyecto\PDMClientGroup4\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from G:\Anime y manga\Proyecto\PDMClientGroup4\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from G:\Anime y manga\Proyecto\PDMClientGroup4\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.usuario.pdmclientgroup4.LoginActivity
+ADDED from G:\Anime y manga\Proyecto\PDMClientGroup4\app\src\main\AndroidManifest.xml:12:9-17:20
+	android:name
+		ADDED from G:\Anime y manga\Proyecto\PDMClientGroup4\app\src\main\AndroidManifest.xml:12:19-48
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from G:\Anime y manga\Proyecto\PDMClientGroup4\app\src\main\AndroidManifest.xml:13:13-16:29
+action#android.intent.action.MAIN
+ADDED from G:\Anime y manga\Proyecto\PDMClientGroup4\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from G:\Anime y manga\Proyecto\PDMClientGroup4\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from G:\Anime y manga\Proyecto\PDMClientGroup4\app\src\main\AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from G:\Anime y manga\Proyecto\PDMClientGroup4\app\src\main\AndroidManifest.xml:15:27-74
+activity#com.example.usuario.pdmclientgroup4.LogOut
+ADDED from G:\Anime y manga\Proyecto\PDMClientGroup4\app\src\main\AndroidManifest.xml:18:9-20:20
+	android:name
+		ADDED from G:\Anime y manga\Proyecto\PDMClientGroup4\app\src\main\AndroidManifest.xml:19:13-35
+activity#com.example.usuario.pdmclientgroup4.SignupActivity
+ADDED from G:\Anime y manga\Proyecto\PDMClientGroup4\app\src\main\AndroidManifest.xml:21:9-23:20
+	android:name
+		ADDED from G:\Anime y manga\Proyecto\PDMClientGroup4\app\src\main\AndroidManifest.xml:22:13-43
+uses-sdk
+INJECTED from G:\Anime y manga\Proyecto\PDMClientGroup4\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from G:\Anime y manga\Proyecto\PDMClientGroup4\app\src\main\AndroidManifest.xml
+INJECTED from G:\Anime y manga\Proyecto\PDMClientGroup4\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\e3787d04278c861126cdcc84bef177b0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\e3787d04278c861126cdcc84bef177b0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\fec49b1204aa73a8074d73a1b8f2d783\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\fec49b1204aa73a8074d73a1b8f2d783\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\1f3fe63d1bdf3b2343669c15c7db6934\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\1f3fe63d1bdf3b2343669c15c7db6934\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\4ebe61dc82a9f989e94046269a1446c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\4ebe61dc82a9f989e94046269a1446c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\d4bf592ee3d0e027f7924e28129f258c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\d4bf592ee3d0e027f7924e28129f258c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\0c45d994adb2dc163e7cbdf412b21b1f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\0c45d994adb2dc163e7cbdf412b21b1f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\54e257a8419b2f51c3798b588462af20\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\54e257a8419b2f51c3798b588462af20\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\811d876dfab3140cc6cdcaa20acaa08c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\811d876dfab3140cc6cdcaa20acaa08c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\86069d8c41e7d49d1bca1138b1375180\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\86069d8c41e7d49d1bca1138b1375180\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\479a3de11699645b26be79a69153c330\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\479a3de11699645b26be79a69153c330\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\348917cef6871f1ce624fffa78914878\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\348917cef6871f1ce624fffa78914878\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\1805b7f3f973403571fdf9cdde52f4f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\1805b7f3f973403571fdf9cdde52f4f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\668e53fc9ee0181c81aced5c3388920a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\668e53fc9ee0181c81aced5c3388920a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\14c38b0d8f4efc7cc38fd351d9a5b110\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\14c38b0d8f4efc7cc38fd351d9a5b110\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\9faf3bb978278ea9a4f9169f775ff9d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\9faf3bb978278ea9a4f9169f775ff9d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\5e198c669bcae95e6dc6f50a1dade0c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\5e198c669bcae95e6dc6f50a1dade0c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\3abe848816d109b86a23bdbca7f79d55\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\3abe848816d109b86a23bdbca7f79d55\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\3b544ad0e398dcd4a157005a6c24f02e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\3b544ad0e398dcd4a157005a6c24f02e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\fe8ffc1aafa335f885f2837a303627f1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\fe8ffc1aafa335f885f2837a303627f1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\db793c3c4a9df195661beb76c968d7ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\db793c3c4a9df195661beb76c968d7ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\4c9c266427a14e29260bc58f3fb16844\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\4c9c266427a14e29260bc58f3fb16844\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\7f337fbd20fcee06c66363d4300079d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\7f337fbd20fcee06c66363d4300079d1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\e9f6af25007b3458f7d8b798859ceeef\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\e9f6af25007b3458f7d8b798859ceeef\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\301490994237b2234172288270150161\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\301490994237b2234172288270150161\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\06f1daa7517efafda9a901fa505e2e03\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\06f1daa7517efafda9a901fa505e2e03\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c115a40ac78a04191b1a2bdc6621fcf9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c115a40ac78a04191b1a2bdc6621fcf9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\150a05fcac81608d7cf899422fc999c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\2dam.TARTANGALH\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\150a05fcac81608d7cf899422fc999c9\AndroidManifest.xml:20:5-44
+INJECTED from G:\Anime y manga\Proyecto\PDMClientGroup4\app\src\main\AndroidManifest.xml
+INJECTED from G:\Anime y manga\Proyecto\PDMClientGroup4\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from G:\Anime y manga\Proyecto\PDMClientGroup4\app\src\main\AndroidManifest.xml
+		ADDED from G:\Anime y manga\Proyecto\PDMClientGroup4\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Anime y manga\Proyecto\PDMClientGroup4\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from G:\Anime y manga\Proyecto\PDMClientGroup4\app\src\main\AndroidManifest.xml
+		ADDED from G:\Anime y manga\Proyecto\PDMClientGroup4\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Anime y manga\Proyecto\PDMClientGroup4\app\src\main\AndroidManifest.xml

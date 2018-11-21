@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PDMClientGroup4</string>
+    <string name="txtLogin">LogIn</string>
+    <string name="hintUser">Username</string>
+    <string name="hintPassword">Password</string>
+    <string name="btnLogin">Login</string>
+    <string name="txtRegister">Still don&#39;t have an account?</string>
+    <string name="hlRegister">Sign Up</string>
+    <string name="txtGreeting">Welcome,</string>
+    <string name="btnLogOut">Logout</string>
+    <string name="hintFullName">Full name</string>
+    <string name="hintEmail">email@email.com</string>
+    <string name="hintRepeatPassword">Repeat password</string>
+    <string name="btnSignUp">Sign Up</string>
+    <string name="btnCancel">Cancel</string>
+</resources>
