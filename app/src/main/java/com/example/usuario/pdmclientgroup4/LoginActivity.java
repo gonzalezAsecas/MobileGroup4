@@ -159,6 +159,8 @@ public class LoginActivity extends AppCompatActivity implements Button.OnClickLi
             txtPassword.setTextColor(Color.parseColor("#ff0000"));
             errorContext="Wrong password";
         } else if (t.getCause() instanceof Exception) {
+            txtUser.setTextColor(Color.parseColor("#237bf7"));
+            txtPassword.setTextColor(Color.parseColor("#237bf7"));
             errorContext="An error have occurred.";
         }
     }

@@ -20,6 +20,8 @@ import java.util.logging.Logger;
 
 import exceptions.EmailNotUniqueException;
 import exceptions.LoginExistingException;
+import exceptions.LoginNotExistingException;
+import exceptions.WrongPasswordException;
 import logic.Logic;
 import message.Privilege;
 import message.Status;
@@ -39,6 +41,8 @@ public class SignupActivity extends AppCompatActivity implements View.OnClickLis
     private EditText txtFUser;
     private EditText txtFPassword;
     private EditText txtFRpPassword;
+    private boolean error=false;
+    private String errorContext="";
 
     private Logic logic;
 
@@ -141,22 +145,54 @@ public class SignupActivity extends AppCompatActivity implements View.OnClickLis
             user.setLastAcces(timestamp);
             user.setLastPasswordChange(timestamp);
             try {
-                logic.signUpUser(user);
-                Toast.makeText(getApplicationContext(),"Register confirmed",Toast.LENGTH_LONG).show();
-                finish();
-            } catch (LoginExistingException lee) {
-                logger.log(Level.SEVERE, lee.getMESSAGE(), lee);
-                txtFUser.getText().clear();
-                //lblUser.setTextColor(Color.parseColor("#FF0000"));
-                Toast.makeText(getApplicationContext(),lee.getMESSAGE(),Toast.LENGTH_LONG).show();
-            } catch (EmailNotUniqueException enue) {
-                logger.log(Level.SEVERE, enue.getMESSAGE(), enue);
-                txtFEmail.getText().clear();
-                //lblEmail.setTextColor(Color.parseColor("#FF0000"));
-                Toast.makeText(getApplicationContext(),enue.getMESSAGE(),Toast.LENGTH_LONG).show();
+                ThreadClient tc = new ThreadClient(user, 2, logic);
+                tc.setUncaughtExceptionHandler(this::uncaughtException);
+                tc.start();
+                tc.join();
+                if(!error){
+                    finish();
+                }else{
+                    Toast toast = Toast.makeText(this, errorContext, Toast.LENGTH_SHORT);
+                    toast.show();
+                }
+                error=false;
             } catch (Exception ex) {
                 logger.log(Level.SEVERE, "ErrorPushSignUp", ex);
             }
+        }
+    }
+
+    /**
+     *
+     * @param thread
+     * @param t
+     */
+    public void uncaughtException(Thread thread, Throwable t) {
+        error=true;
+        if(t.getCause() instanceof LoginExistingException){
+            txtFUser.setTextColor(Color.parseColor("#ff0000"));
+            txtFPassword.setTextColor(Color.parseColor("#237bf7"));
+            txtFEmail.setTextColor(Color.parseColor("#237bf7"));
+            txtFName.setTextColor(Color.parseColor("#237bf7"));
+            txtFPassword.setTextColor(Color.parseColor("#237bf7"));
+            txtFRpPassword.setTextColor(Color.parseColor("#237bf7"));
+            errorContext="Login doesn't exist";
+        }else if(t.getCause() instanceof EmailNotUniqueException){
+            txtFUser.setTextColor(Color.parseColor("#237bf7"));
+            txtFPassword.setTextColor(Color.parseColor("#237bf7"));
+            txtFEmail.setTextColor(Color.parseColor("#ff0000"));
+            txtFName.setTextColor(Color.parseColor("#237bf7"));
+            txtFPassword.setTextColor(Color.parseColor("#237bf7"));
+            txtFRpPassword.setTextColor(Color.parseColor("#237bf7"));
+            errorContext="This email is in use.";
+        } else if (t.getCause() instanceof Exception) {
+            txtFUser.setTextColor(Color.parseColor("#237bf7"));
+            txtFPassword.setTextColor(Color.parseColor("#237bf7"));
+            txtFEmail.setTextColor(Color.parseColor("#237bf7"));
+            txtFName.setTextColor(Color.parseColor("#237bf7"));
+            txtFPassword.setTextColor(Color.parseColor("#237bf7"));
+            txtFRpPassword.setTextColor(Color.parseColor("#237bf7"));
+            errorContext="An error have occurred.";
         }
     }
 
